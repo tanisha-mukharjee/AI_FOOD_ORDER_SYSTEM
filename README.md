@@ -1,7 +1,7 @@
 # 🍔 ByteBite – AI-Powered Food Ordering Platform
 
 <p align="center">
-  <img src="assets/bytebite_logo.png" alt="ByteBite Logo" width="250">
+  <img src="assets/images/bytebite_logo.png" alt="ByteBite Logo" width="250">
 </p>
 
 <p align="center">
